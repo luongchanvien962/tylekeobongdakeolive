@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Kèo bóng đá hôm nay - Tỷ lệ kèo bóng đá trực tuyến | Keolive
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Trực tiếp `tỷ lệ kèo bóng đá hôm nay <https://keolive.com/keolive-247-truc-tiep-bong-da.html>`_ mới nhất, tỷ số bóng đá trực tuyến, tỷ lệ bóng đá ngày mai các giải đấu, cập nhật nhanh nhất tại Keolive.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ
 
-.. note::
+Địa chỉ: 88 Đường Văn Tiến Dũng, Minh Khai, Bắc Từ Liêm, Hà Nội
 
-   This project is under active development.
+Email: nhandinh@keolive.com
 
-Contents
---------
+Số điện thoại: 0971983133
 
-.. toctree::
+Website: https://keolive.com/keolive-247-truc-tiep-bong-da.html 
 
-   usage
-   api
+#keobongda #keo_bong_da #tylekeobong #tylekeobongda #tilebongda #tylekeobongdahomnay #ty_le_keo_bong_hom_nay
